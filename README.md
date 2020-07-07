@@ -1,6 +1,6 @@
 # 99-scala-problems
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)
+[![Build Status](https://travis-ci.org/tcooling/99-scala-problems.svg?branch=master)](https://travis-ci.org/tcooling/99-scala-problems) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)
 
 A repository with my attempt to solve 99 Scala Problems.
 

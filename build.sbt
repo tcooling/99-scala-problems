@@ -1,7 +1,7 @@
 name := "99-scala-problems"
 organization := "com.github.tcooling"
 version := "0.0.1"
-scalaVersion := "2.12.4"
+scalaVersion := "2.12.1"
 
 lazy val ninetyNineScalaProblems = (project in file("."))
   .settings(
